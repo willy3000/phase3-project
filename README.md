@@ -22,7 +22,7 @@ A platform where information about students and technical mentors, personal info
 
 
 ## Set-up Instructions
-1. Clone this repository to your local machine ; https://github.com/willy3000/bank-of-flatiron
+1. Clone this repository to your local machine ; https://github.com/willy3000/phase3-project
 2. run pipenv install.
 3. run python portal.py
 
